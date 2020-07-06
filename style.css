@@ -1,0 +1,11 @@
+.esercizio{
+  width: 500px;
+  height: 100px;
+  background-color: tomato;
+  color: white;
+  font-weight: bolder;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  letter-spacing: 1px;
+}
